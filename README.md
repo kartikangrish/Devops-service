@@ -138,4 +138,3 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 - Next.js team for the amazing framework
 - GitHub for the Actions platform
-- All contributors who have helped shape this project 
